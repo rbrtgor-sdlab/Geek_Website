@@ -1,0 +1,26 @@
+header{
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+nav{
+    background-color: #343a40;
+    text-align: center;
+    padding: 12px 0;
+    margin: 5px 0;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 600px;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+}
+nav a:hover {
+    color: #4caf50;
+}
+main {
+    padding: 20px;
+    background-color: #f8f9fa;
